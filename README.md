@@ -1,2 +1,1 @@
-Bc-gamenewevents.in
-https://
+# Bcgametopgame.github.oi
